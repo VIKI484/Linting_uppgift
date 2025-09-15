@@ -9,11 +9,11 @@ line-length = 88
 
 #Vilka regel-familjer som ska användas(E=pycodestyle, F=pyflakes)
 
-select = ["E", "F"]
+lint.select = ["E", "F"]
 
 # Regler att ignorera (E501 = för låga rader)
 
-ignore = ["E501"]
+lint.ignore = ["E501"]
 
 # Mappar som ruff ska ignorera vid linting
 
