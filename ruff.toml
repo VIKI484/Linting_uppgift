@@ -5,7 +5,7 @@ target-version = "py312"
 
 # Maxlängd på kodrader 
 
-line-legth = 88
+line-length = 88
 
 #Vilka regel-familjer som ska användas(E=pycodestyle, F=pyflakes)
 
